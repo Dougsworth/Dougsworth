@@ -8,7 +8,6 @@
 - 🤔 I’m looking for help with Python.
 - 💬 Ask me about anything tech related.
 - 📫 How to reach me: [ Douglas :)](https://www.linkedin.com/in/douglasbyfield/)
-- 😄 Pronouns: He/His/Him
 - ⚡ Fun fact: I play guitar
 
 <img src="https://github-readme-stats.vercel.app/api?username=Dougsworth&&show_icons=true&title_color=ffffff&icon_color=befdb7&text_color=daf7dc&bg_color=151515"> 
