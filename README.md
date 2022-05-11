@@ -3,6 +3,6 @@
 <hr>
 <div id="header" align="center">
  
-  <img src="https://media.giphy.com/media/J4yDZkszyi6gRTiPeh/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/J4yDZkszyi6gRTiPeh/giphy.gif" width="200"/>
 
 </div>
