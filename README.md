@@ -8,7 +8,7 @@
 </div>
 
 
-### <div align="center">I'm Dougy, an Elctronics Engineer👨‍💻 🚀</div>  
+### <div align="center">I'm Dougy, an Electronics Engineer👨‍💻 🚀</div>  
   
 
   
