@@ -8,16 +8,9 @@
 </div>
 
 
-### <div align="center">I'm Dougy, an aspiring full-stack  developer 👨‍💻 🚀</div>  
+### <div align="center">I'm Dougy, an Elctronics Engineer👨‍💻 🚀</div>  
   
 
-- 🔭 I’m currently working on MERN stack projects  
-  
-
-- 🌱 I’m currently learning React  
-  
-
-- ❓ Ask me about anything related to MERN stack and related technologies  
   
 
 - ⚡ Fun fact: I 3D print stuff sometimes  
