@@ -1,5 +1,3 @@
-                                                ### Hey,I'm Douglas here. Nice to meet you! 👋
-
 <hr>
 <div id="header" align="center">
  
