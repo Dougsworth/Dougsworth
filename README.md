@@ -11,7 +11,7 @@
 
   
 
-- ⚡ Fun fact: I 3D print stuff sometimes  
+- ⚡ Fun fact: I Design and 3D print stuff sometimes  
   
 
 <br/>  
