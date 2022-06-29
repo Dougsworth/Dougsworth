@@ -6,7 +6,7 @@
 </div>
 
 
-### <div align="center">I'm Dougy, a Engineer👨‍💻 🚀</div>  
+### <div align="center">I'm Dougy, a Software Engineer👨‍💻 🚀</div>  
   
 
   
